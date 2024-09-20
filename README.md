@@ -6,7 +6,7 @@
 
 1. **User**
    - `UserID`: Unique identifier for the user.
-   - `Name`: Full name of the user.https://docs.google.com/spreadsheets/d/1VF3Td7vuCADhkz2BbyLQ9nim5Bhje89xxYjQazH4Jhc/edit?gid=0#gid=0
+   - `Name`: Full name of the user.
    - `Email`: Contact email address.
    - `Password`: Encrypted user password.
    - `Role`: Role of the user (e.g., student, teacher, admin).
