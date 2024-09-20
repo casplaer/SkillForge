@@ -67,8 +67,6 @@
     - `IsCorrect`: Boolean indicating whether the answer is correct.
    
 # Functionality:
-
-**Student**
    - Student: Can Register, Login and Enroll on the course.
    - Teacher: Can Register, Login, Enroll on the course and create their own courses, review students' results.
    - Admin: Editing and approving courses, banning/unbanning users.
