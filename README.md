@@ -6,7 +6,7 @@
 
 1. **User**
    - `UserID`: Unique identifier for the user.
-   - `Name`: Full name of the user.
+   - `Name`: Full name of the user.https://docs.google.com/spreadsheets/d/1VF3Td7vuCADhkz2BbyLQ9nim5Bhje89xxYjQazH4Jhc/edit?gid=0#gid=0
    - `Email`: Contact email address.
    - `Password`: Encrypted user password.
    - `Role`: Role of the user (e.g., student, teacher, admin).
@@ -65,3 +65,10 @@
     - `UserID`: Foreign key referencing the User who answered.
     - `AnswerContent`: Content of the answer.
     - `IsCorrect`: Boolean indicating whether the answer is correct.
+   
+# Functionality:
+
+**Student**
+   - Student: Can Register, Login and Enroll on the course.
+   - Teacher: Can Register, Login, Enroll on the course and create their own courses, review students' results.
+   - Admin: Editing and approving courses, banning/unbanning users.
