@@ -1,2 +1,2 @@
 # SkillForge
-![Диаграмма без названия drawio (3)](https://github.com/user-attachments/assets/6acaf6e3-cb59-418d-bc0f-b99de0800a78)
+![Диаграмма без названия drawio](https://github.com/user-attachments/assets/0152a09d-c754-4933-9e86-00218239c56f)
