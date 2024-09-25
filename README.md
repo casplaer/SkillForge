@@ -1,6 +1,7 @@
 # SkillForge
 
-![бдшка2 drawio](https://github.com/user-attachments/assets/4e7cfc57-464a-4b1f-a03f-826d1ac9a59b)
+![Диаграмма без названия (6) drawio](https://github.com/user-attachments/assets/0e5126b8-adee-487d-8dae-0129ef0ae65d)
+
 
 # Entities:
 
