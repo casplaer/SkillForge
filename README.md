@@ -1,7 +1,6 @@
 # SkillForge
 
-![Диаграмма без названия (6) drawio](https://github.com/user-attachments/assets/0e5126b8-adee-487d-8dae-0129ef0ae65d)
-
+![Диаграмма без названия (6) drawio (1)](https://github.com/user-attachments/assets/00c07d57-c536-4cbc-8eac-23af72f26cca)
 
 # Entities:
 
